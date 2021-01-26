@@ -1,0 +1,3 @@
+Exercício
+
+1- Utilizar o diagrama do arquivo "Diagrama de classe.png" e criar as classes no Eclipse de acordo com as definições de cada uma, isto é, com o nome igual ao diagrama e também com os atributos e métodos.
