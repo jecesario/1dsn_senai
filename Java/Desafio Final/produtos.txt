@@ -1,0 +1,6 @@
+1;Queijo;25.5;10
+2;Leite;3.45;20
+3;Bolacha;4.0;10
+6;Lata;1.5;6
+99;Celular;999.0;10
+55;Headset;150.0;54
