@@ -19,3 +19,33 @@ function areaCirculo() {
 }
 
 areaCirculo();
+
+// Script do Exercício 4
+function somar() {
+    var n1 = parseInt(document.getElementById("n1").innerText);
+    var n2 = parseInt(document.getElementById("n2").innerText);
+    var conta = n1 + n2;
+    var resultado = document.getElementById("resultado");
+    resultado.innerHTML = conta;
+}
+function subtrair() {
+    var n1 = parseInt(document.getElementById("n1").innerText);
+    var n2 = parseInt(document.getElementById("n2").innerText);
+    var conta = n1 - n2;
+    var resultado = document.getElementById("resultado");
+    resultado.innerHTML = conta;
+}
+function dividir() {
+    var n1 = parseInt(document.getElementById("n1").innerText);
+    var n2 = parseInt(document.getElementById("n2").innerText);
+    var conta = n1 / n2;
+    var resultado = document.getElementById("resultado");
+    resultado.innerHTML = conta;
+}
+function multiplicar() {
+    var n1 = parseInt(document.getElementById("n1").innerText);
+    var n2 = parseInt(document.getElementById("n2").innerText);
+    var conta = n1 * n2;
+    var resultado = document.getElementById("resultado");
+    resultado.innerHTML = conta;
+}
