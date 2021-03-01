@@ -5,3 +5,8 @@ function soma() {
 }
 
 soma();
+
+// Script do Exercício 2
+function apagar() {
+    document.write("imagem apagada");
+}
