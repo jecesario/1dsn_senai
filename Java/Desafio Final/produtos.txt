@@ -4,3 +4,4 @@
 6;Lata;1.5;6
 99;Celular;999.0;10
 55;Headset;150.0;54
+4;Denilson;1.99;1
